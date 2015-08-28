@@ -1,4 +1,5 @@
 #!/bin/sh
+
 SOURCE_DIRECTORY='/Users/robertjoscelyne/Development/Java/dropwizard-20150826/dropwizard-example/target'
 BASE_DIRECTORY='/Users/robertjoscelyne/Sites/dropwizard'
 SITE_DIRECTORY='example'
